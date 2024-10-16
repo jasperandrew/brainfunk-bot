@@ -1,4 +1,8 @@
 # Welcome to Brainfunk!
+
+> ### Note:
+> The Replit no longer works due to changes in the Replit workspace. It's possible the Discord API might have changed in the past few years as well, I haven't checked.
+
 ## Putting the *fun* back into *Brainfuck*
 
 [Brainfuck](https://wikipedia.org/wiki/Brainfuck) is an esoteric programming language with only 8 symbols: ` + - < > [ ] . , `  
